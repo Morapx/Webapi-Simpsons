@@ -24,10 +24,31 @@ namespace web_api_simpsons.Controllers
             },
             new Character
             {
-                FirstName = "Bartolomeo",
+                FirstName = "Bart",
                 SecondName = " ",
                 LastName = "Simpsons",
                 Age = 10
+            }
+            new character
+            {
+                FirstName = "Margory",
+                SecondName = "",
+                LastName = "Simpson"
+                Age = 36
+            }
+            new character
+            {
+                FirstName = "Lisa"
+                SecondName = "",
+                LastName = "Simpson"
+                Age = 9
+            }
+            new character
+            {
+                firstName = "Maggie",
+                SecondName = "",
+                LastName = "Simpson"
+                Age = 2
             }
         };
         
